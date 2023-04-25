@@ -12,8 +12,6 @@ Just a RegularSchmegular Text Editor
 
 * [Contributing](#contributing)
 
-* [Tests](#tests)
-
 * [Questions](#questions)
 
 ## <b>Installation</b>
@@ -29,7 +27,7 @@ npm i (all dependencies saved in package.json)<br>
 <li>nodemon: ^2.0.4</li>
 
 ## <b>Usage</b>
-Deployed Link: 
+Deployed Link: <a href ="https://steveezee03.github.io/YourTextTester/client/"> https://steveezee03.github.io/YourTextTester/client/</a>
 
 ## <b>License</b>
 This project is licensed under the MIT license.
